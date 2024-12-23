@@ -1,0 +1,62 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "What is<br><img width='70%' src='./assests/images/14.png'>",
+    "options": [
+      "41.23",
+      "42.83",
+      "43.75",
+      "44.28"
+    ],
+    "correct": 2,
+    "explanation": "Convert 1212% to a fraction: 12 + 12% = 25/100 = 25/1100 = 2500 = 18. Multiply this fraction by 350: (18 * 350) = 43.75."
+  },
+  {
+    "questionNo": "Q2",
+    "question": "By how much is 75% of 60 greater than <sup>2</sup>&frasl;<sub>3</sub> of 45?",
+    "options": [
+      "0",
+      "5",
+      "10",
+      "15"
+    ],
+    "correct": 3,
+    "explanation": "First, calculate 75% of 60: 75% of 60 = 45. Next, calculate 2/3 of 45: 2/3 of 45 = 30. Finally, find the difference: 45 - 30 = 15."
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Which of the following is the greatest:<br><img width='70%' src='./assests/images/13.png'>",
+    "options": [
+      "./assests/optionImg/9.jpg",
+      "./assests/optionImg/10.jpg",
+      "./assests/optionImg/11.jpg",
+      "./assests/optionImg/12.jpg"
+    ],
+    "correct": 0,
+    "explanation": "234 = 2.75, 20% of 50 = 1, 35% = 0.35, 2.15. On comparing, 2.75 is the greatest."
+  },
+  {
+    "questionNo": "Q4",
+    "question": "In a high school of 1600 students, 55% are boys. If 30% of the girls and 20% of the boys participate in the science club, how many students in total are members of the science club?",
+    "options": [
+      "392",
+      "484",
+      "560",
+      "622"
+    ],
+    "correct": 0,
+    "explanation": "Boys: 55% of 1600 = 880, Girls: 1600 - 880 = 720. Science club boys: 20% of 880 = 176, Science club girls: 30% of 720 = 216. Total members: 176 + 216 = 392."
+  },
+  {
+    "questionNo": "Q5",
+    "question": "If $3600 is to be divided among Alan, Ben, and Cara, so that Alan receives two parts, Ben receives three parts, and Cara receives four parts, how much money will each get in percentage?",
+    "options": [
+      "Alan: 20%, Ben: 30%, Cara: 50%",
+      "Alan: 25%, Ben: 35%, Cara: 40%",
+      "Alan: 22.22%, Ben: 33.33%, Cara: 44.44%",
+      "Alan: 28.57%, Ben: 42.85%, Cara: 28.57%"
+    ],
+    "correct": 2,
+    "explanation": "Total parts = 2 (Alan) + 3 (Ben) + 4 (Cara) = 9 parts. Alan gets 2/9 of $3600 = $800 (22.22%), Ben gets 3/9 of $3600 = $1200 (33.33%), Cara gets 4/9 of $3600 = $1600 (44.44%)."
+  }
+]
